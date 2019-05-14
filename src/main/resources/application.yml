@@ -1,0 +1,8 @@
+server:
+    port: 8880
+spring:
+    data:
+        elasticsearch:
+            cluster-nodes: 120.79.81.15:9300
+            cluster-name: docker-cluster
+
